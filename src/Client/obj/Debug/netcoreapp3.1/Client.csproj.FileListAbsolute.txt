@@ -1,0 +1,16 @@
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\anthony.barasa\source\repos\Switchlink\src\client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

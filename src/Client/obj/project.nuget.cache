@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uj14tpVL3D4c/nqoJVFHTeuj9C8WzdFLXFtZH6/Lsr2iQ+U4WB8m71SAyNZr3h7l8ROZoLzh6NfhQGmb5BIV4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anthony.barasa\\source\\repos\\Switchlink\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anthony.barasa\\.nuget\\packages\\identitymodel\\4.2.0\\identitymodel.4.2.0.nupkg.sha512",
+    "C:\\Users\\anthony.barasa\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\anthony.barasa\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
